@@ -1,16 +1,33 @@
-## Hi there 👋
+# Salut, moi c’est Steve !
 
-<!--
-**avlessi-steve/avlessi-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un *développeur web junior* passionné par la création de sites modernes, accessibles et efficaces.  
+J’utilise *HTML, CSS, JavaScript, WordPress*, et je m'intéresse activement à l’e-commerce (dropshipping avec WooCommerce).  
+Je suis à la recherche d’un *poste à distance* qui me permettra de continuer à progresser tout en contribuant à des projets concrets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais :
+- Développement de sites web responsives
+- Intégration HTML/CSS
+- Projets WordPress personnalisés
+- Expérimentations en e-commerce et WooCommerce
+
+---
+
+## Mes objectifs :
+- Rejoindre une équipe en télétravail
+- Apprendre et évoluer en continu
+- Travailler sur des projets réels et utiles
+
+---
+
+## Projets :
+- [Dépôt GitHub personnel](https://github.com/avlessi-steve) : projets, essais, et apprentissages en cours
+
+---
+
+## Me contacter :
+- *Email :* stevefofo55@gmail.com  
+- *GitHub :* [github.com/avlessi-steve](https://github.com/avlessi-steve)
+
+Merci d’avoir pris le temps de lire !
